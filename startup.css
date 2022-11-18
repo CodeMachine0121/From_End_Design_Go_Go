@@ -1,0 +1,63 @@
+.Top{
+  width: 1200px;
+  margin: auto; 
+}
+.Name{
+  margin-top: 40px;
+  font-family: 'Noto Sans';
+  font-size: 80px;
+  font-weight: 400px;
+  margin-bottom: 24px;
+}
+img{
+  margin-top: 40px;
+  width: 320px;
+  height: 300px;
+}
+
+hr{
+  width: 1200px;
+  height: 0px;
+  border: 2px solid;
+}
+
+.data{
+  margin-top: 20px;
+  margin-bottom: 14px;
+}
+
+.personalData{
+  font-size: 32px;
+  width: 129px;
+  height: 48px;
+}
+
+.profile{
+  margin-top:20px ;
+  font-size: 24px;
+  margin-left: 16px;
+  font-weight: 600;
+  font-family: 'Roboto'; 
+  color: red;
+}
+.history{
+  margin-top: 16px;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 300;
+  font-style: normal;
+  margin-bottom: 24px;
+  
+}
+.introduction{
+  font-size: 24px; 
+  line-height: 36px;
+  font-weight: 300;
+  font-style: normal;
+  margin-bottom: 70px;
+}
+
+.education{
+  line-height: 16;
+  font-family: 'Noto Sans';
+}
