@@ -1,3 +1,17 @@
+:root{
+  font-family: 'Noto Sans';
+}
+.Title{
+  margin-bottom: 14px;
+  margin-top: 20px;
+  font-size: 32px;
+}
+.content{ 
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 300;
+}
+
 .Top{
   width: 1200px;
   margin: auto; 
@@ -21,18 +35,14 @@ hr{
   border: 2px solid;
 }
 
-.data{
-  margin-top: 20px;
-  margin-bottom: 14px;
-}
 
-.personalData{
-  font-size: 32px;
+.Chinese{
   width: 129px;
   height: 48px;
+  font-size: 32px;
 }
 
-.profile{
+.English{
   margin-top:20px ;
   font-size: 24px;
   margin-left: 16px;
@@ -42,22 +52,41 @@ hr{
 }
 .history{
   margin-top: 16px;
-  font-size: 24px;
-  line-height: 36px;
-  font-weight: 300;
   font-style: normal;
   margin-bottom: 24px;
-  
 }
-.introduction{
-  font-size: 24px; 
-  line-height: 36px;
-  font-weight: 300;
+.introduction{ 
   font-style: normal;
   margin-bottom: 70px;
 }
 
 .education{
-  line-height: 16;
-  font-family: 'Noto Sans';
+  line-height: 32px;
+}
+
+.Skill{
+  margin-top: 64px;
+  color: #FFFFFF;
+  background: #678F8D;
+}
+.SkillContent{
+  width:200px;
+  margin:auto;
+}
+.burger{
+  width: 100px;
+  
+}
+
+.WorkExperience{
+  width: 2000;
+}
+.WorkIntro{
+
+  width: 690px;
+  margin-bottom: 24px;
+}
+
+.WorkItem{
+  margin-bottom: 24px;
 }
