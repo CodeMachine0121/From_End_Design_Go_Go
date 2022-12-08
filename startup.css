@@ -16,6 +16,11 @@
   width: 1200px;
   margin: auto; 
 }
+.Buttom{
+  width: 1200px;
+  margin: auto;
+}
+
 .Name{
   margin-top: 40px;
   font-family: 'Noto Sans';
@@ -64,29 +69,49 @@ hr{
   line-height: 32px;
 }
 
-.Skill{
+.SkillColorContent{
+  width:200px;
+  margin:auto;
+}
+
+.ColorBack{
   margin-top: 64px;
+  padding-top: 30px;
+  padding-bottom: 40px;
   color: #FFFFFF;
   background: #678F8D;
 }
-.SkillContent{
-  width:200px;
+.ColorContent{
+  width:500px;
   margin:auto;
 }
 .burger{
   width: 100px;
-  
+  height: 100px;
 }
 
+.WorkingContent{
+  padding-left: 24px;
+}
 .WorkExperience{
   width: 2000;
 }
 .WorkIntro{
-
+  font-size: 20px;
   width: 690px;
+  margin-bottom: 24px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.WorkItem{
+  font-size: 20px;
   margin-bottom: 24px;
 }
 
-.WorkItem{
-  margin-bottom: 24px;
+.socialimgs{
+  width: 64px;
+  height: 64px;
+}
+.social{
+  padding-left:40%;
 }
