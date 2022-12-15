@@ -113,5 +113,11 @@ hr{
   height: 64px;
 }
 .social{
-  padding-left:40%;
+  width: 100%;
+}
+.socialContent{
+  margin: 0 auto;
+  padding: 0 auto;
+  width: 33%;
+  text-align: center;
 }
