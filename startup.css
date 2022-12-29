@@ -1,6 +1,10 @@
 :root{
   font-family: 'Noto Sans';
 }
+.container{
+ height: 1920;
+ width: 1080; 
+}
 .Title{
   margin-bottom: 14px;
   margin-top: 20px;
@@ -50,6 +54,7 @@ hr{
 .English{
   margin-top:20px ;
   margin-bottom: 30px;
+  padding: 0,auto;
   font-size: 24px;
   margin-left: 16px;
   font-weight: 600;
